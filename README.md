@@ -12,7 +12,7 @@ P14
 | A. Sanjana | 2520090159 |
 
 ## Supervisor
-To be updated
+Dr.Y. Lakshmi Prasanna
 
 ## Abstract
 This project aims to optimize document chunking strategies for legal contract search. It compares different chunking techniques to identify how document segmentation affects retrieval accuracy, search relevance and performance.
